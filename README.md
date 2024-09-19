@@ -1,8 +1,12 @@
- **Name**    : Shibin Kallai
- **Company** : CODTECH IT SOLUTIONS 
- **ID**      : CT08DS8187
- **Domain**  : Python Programming
- **Duration**: September to October 2024
+**Name**    : Shibin Kallai
+
+**Company** : CODTECH IT SOLUTIONS
+
+**ID**      : CT08DS8187
+
+**Domain**  : Python Programming
+
+**Duration**: September to October 2024
 
 
 ## Overview of the Project
